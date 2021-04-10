@@ -1,2 +1,3 @@
-# handmade_math_function_python3
-Some math function in Python3
+# List of function
+
+1. Integral of f(x) = arcosh(x)
